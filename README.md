@@ -1,4 +1,6 @@
 # Twitter Console Application
+## Technology
+ Java 8 Streams & Lambda Expressions
 
 **Prerequisites:** JRE 1.8
 
